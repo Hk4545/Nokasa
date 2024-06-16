@@ -13,7 +13,7 @@ const Landing_Page = () => {
 
 
     return (
-        <div className='w-full h-full flex flex-col justify-center items-center'>
+        <div className='w-full h-full flex flex-col justify-center items-center pb-6'>
             <Navbar />
             <Landing_Content/>
             <Hand_Section/>
